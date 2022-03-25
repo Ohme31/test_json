@@ -9,8 +9,6 @@
       "type":"bad quote"
     }
   ],
-  "blanks": [
-    {
-    }
-  ]
+  "blanks": {
+  } 
 }
